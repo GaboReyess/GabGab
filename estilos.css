@@ -1,0 +1,12 @@
+.container-fluid a:hover{
+    background-color: rgb(124, 218, 144);
+  }
+.container-fluid{
+    background: rgb(160, 47, 180);
+  }
+.navbar-brand{
+    background: rgb(212, 238, 14);
+}
+.btn{
+    background: white;
+}
