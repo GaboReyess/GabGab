@@ -1,12 +1,19 @@
-.container-fluid a:hover{
+.texto{
+    padding: 50px;
+}
+.titulo{
+    text-align: center;
+}
+.nav-item:hover{
     background-color: rgb(124, 218, 144);
   }
 .container-fluid{
     background: rgb(160, 47, 180);
   }
-.navbar-brand{
-    background: rgb(212, 238, 14);
-}
 .btn{
     background: white;
+}
+.logo{
+    height: 40px;
+    width: 50px;
 }
