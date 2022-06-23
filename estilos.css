@@ -1,0 +1,40 @@
+body{
+    background: rgb(124, 218, 144);
+}
+.texto{
+    padding: 30px;
+}
+.titulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+.nav-item:hover{
+    background-color: rgb(124, 218, 144);
+  }
+.container-fluid{
+    background: rgb(160, 47, 180);
+    
+  }
+.btn{
+    background: white;
+}
+.logo{
+    height: 40px;
+    width: 50px;
+} 
+.patas{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    color: white;
+}
+
+
+
+
+
+
