@@ -118,9 +118,11 @@ border:solid black 10px;
 .card{
     align-items: center;
     text-align: center;
+    background: rgb(241, 233, 180);
 }
-.amenazas2{
+.cards{
     height: 198px;
+    border-radius: 20px;
 }
 .col-sm-6{
     padding-left: 40px;
