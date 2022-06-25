@@ -152,3 +152,6 @@ border:solid black 10px;
     justify-content: center;
     text-align: center;
 }
+.table-hover{
+    background: #68ddbe84;
+}
