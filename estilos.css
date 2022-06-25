@@ -137,3 +137,18 @@ border:solid black 10px;
     padding-bottom: 20px;
 
 }
+.izquierda{
+    width: 200px;
+    text-align: center;
+}
+.derecha{
+    width: 300px;
+    text-align: center;
+}
+.table{
+    justify-content: center;
+}
+.retorno{
+    justify-content: center;
+    text-align: center;
+}
