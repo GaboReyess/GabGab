@@ -121,10 +121,19 @@ border:solid black 10px;
     background: rgb(241, 233, 180);
 }
 .cards{
-    height: 198px;
+    height: 170px;
+    border-radius: 20px;
+}
+.cards1{
+    height: 160px;
+    border-radius: 20px;
+}
+.cards2{
+    height: 200px;
     border-radius: 20px;
 }
 .col-sm-6{
     padding-left: 40px;
     padding-bottom: 20px;
+
 }
